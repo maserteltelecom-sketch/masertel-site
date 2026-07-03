@@ -51,6 +51,7 @@ section{padding:78px 0}
 .dark .section-title h2,.dark .card h3{color:#fff}
 .dark .card{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.16);box-shadow:none}
 .clients{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.clients.grid-4{grid-template-columns:repeat(4,1fr)}
 .client{background:#fff;border:1px solid #e6edf2;border-radius:18px;padding:22px;font-weight:800;color:var(--azul)}
 .tips .card{display:flex;flex-direction:column;min-height:240px}
 .tip-tag{color:var(--dourado);font-weight:900;font-size:.85rem;text-transform:uppercase;margin-bottom:8px}
